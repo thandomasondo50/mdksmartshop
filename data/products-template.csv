@@ -1,0 +1,4 @@
+id,category,subcategory,name,price,description,image,featured,stock
+T001,Tech Gadgets,Smart IoT,Smart Wi-Fi Plug,149,Switch appliances on and off from your phone,https://example.com/plug.jpg,yes,yes
+G001,Grocery Hampers,Breakfast Hamper,Breakfast Hamper,289,Morning staples packed together,,yes,yes
+S001,Solar Products,Back-Up Systems,600VA Back-Up Kit,3999,Keeps lights and Wi-Fi on when the power drops,,no,yes
